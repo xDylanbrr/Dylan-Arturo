@@ -6,16 +6,17 @@ Estudiante de Redes y Telecomunicaciones 🌐 | Apasionado por la infraestructur
 
 ### 🛠️ Redes y Herramientas
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="Cisco" width="40" height="40" /> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/gns3/gns3-icon.svg" alt="GNS3" width="40" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="PuTTY" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-00bceb?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
+  <img src="https://img.shields.io/badge/GNS3-333333?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3" />
+  <img src="https://img.shields.io/badge/PuTTY-0078D4?style=for-the-badge&logo=putty&logoColor=white" alt="PuTTY" />
 </p>
 
 ### 💻 Sistemas y Desarrollo
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
