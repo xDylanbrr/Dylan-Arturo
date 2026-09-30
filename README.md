@@ -9,7 +9,7 @@ Estudiante de Redes y Telecomunicaciones 🌐 | Apasionado por la infraestructur
   <img src="https://raw.githubusercontent.com/xDylanbrr/xDylanbrr/main/cisco.png" width="48" height="48" alt="Cisco" />
   <img src="https://raw.githubusercontent.com/xDylanbrr/xDylanbrr/main/packettracer.png" width="48" height="48" alt="Cisco Packet Tracer" />
   <img src="https://raw.githubusercontent.com/xDylanbrr/xDylanbrr/main/gns3.png" width="48" height="48" alt="GNS3" />
-  <img src="https://raw.githubusercontent.com/xDylanbrr/xDylanbrr/main/putty.png" width="48" height="48" alt="PuTTY" />
+  <img src="https://github.com/xDylanbrr/Dylan-Arturo/blob/9cf7babea0369ee1a3dfdd6cfc0b6da5f4a44f4e/puTTY.png" width="48" height="48" alt="PuTTY" />
 </p>
 
 ### 💻 Sistemas y Desarrollo
