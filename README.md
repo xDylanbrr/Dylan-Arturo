@@ -1,4 +1,4 @@
-ç### ¡Hola! 👋 Soy Dylan Arturo Rodriguez Isabel
+¡Hola! 👋 Soy Dylan Arturo Rodriguez Isabel
 
 Estudiante de Redes y Telecomunicaciones 🌐 | Apasionado por la infraestructura de redes, Routing & Switching y la ciberseguridad 🔒.
 
