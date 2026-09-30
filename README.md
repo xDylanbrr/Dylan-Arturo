@@ -6,15 +6,15 @@ Estudiante de Redes y Telecomunicaciones 🌐 | Apasionado por la infraestructur
 
 ### 🛠️ Redes y Herramientas
 <p>
-  <img src="icon-cisco.svg" width="48" height="48" alt="Cisco" />
-  <img src="icon-packettracer.svg" width="48" height="48" alt="Cisco Packet Tracer" />
-  <img src="icon-gns3.svg" width="48" height="48" alt="GNS3" />
-  <img src="icon-putty.svg" width="48" height="48" alt="PuTTY" />
+  <img src="https://skillicons.dev/icons?i=cisco" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Packet_Tracer-00bceb?style=for-the-badge" alt="Packet Tracer" />
+  <img src="https://img.shields.io/badge/GNS3-333333?style=for-the-badge" alt="GNS3" />
+  <img src="https://img.shields.io/badge/PuTTY-0078D4?style=for-the-badge" alt="PuTTY" />
 </p>
 
 ### 💻 Sistemas y Desarrollo
 <p>
-  <img src="https://skillicons.dev/icons?i=python,linux,git,Cisco" alt="Python, Linux, Git , Cisco" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git" alt="Python, Linux, Git" />
 </p>
 
 ---
