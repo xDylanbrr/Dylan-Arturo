@@ -6,10 +6,10 @@ Estudiante de Redes y Telecomunicaciones 🌐 | Apasionado por la infraestructur
 
 ### 🛠️ Redes y Herramientas
 <p>
-  <img src="assets/cisco.svg" width="48" height="48" alt="Cisco" />
-  <img src="assets/packettracer.svg" width="48" height="48" alt="Cisco Packet Tracer" />
-  <img src="assets/gns3.svg" width="48" height="48" alt="GNS3" />
-  <img src="assets/putty.svg" width="48" height="48" alt="PuTTY" />
+  <img src="icon-cisco.svg" width="48" height="48" alt="Cisco" />
+  <img src="icon-packettracer.svg" width="48" height="48" alt="Cisco Packet Tracer" />
+  <img src="icon-gns3.svg" width="48" height="48" alt="GNS3" />
+  <img src="icon-putty.svg" width="48" height="48" alt="PuTTY" />
 </p>
 
 ### 💻 Sistemas y Desarrollo
