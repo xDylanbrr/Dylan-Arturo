@@ -6,7 +6,7 @@ Estudiante de Redes y Telecomunicaciones 🌐 | Apasionado por la infraestructur
 
 ### 🛠️ Redes y Herramientas
 <p>
-  <img src="https://github.com/xDylanbrr/Dylan-Arturo/blob/2ada57561caa7b925cf00d7df9610f707b69f1ea/cisco.png" width="48" height="48" alt="Cisco" />
+  <img src="https://https://github.com/xDylanbrr/Dylan-Arturo/blob/e71d1e949ad54610ec98c52047be9a95fca255e2/ChatGPT%20Image%20Sep%2029%2C%202026%2C%2009_09_12%20PM.png" width="48" height="48" alt="Cisco" />
   <img src="https://github.com/xDylanbrr/Dylan-Arturo/blob/f521822e3ab5da63b3d5785993a20ca52038b298/TRACER.png" width="48" height="48" alt="Cisco Packet Tracer" />
   <img src="https://github.com/xDylanbrr/Dylan-Arturo/blob/aa7af880d1fe8c0ce35e1f84778fa18090eda9aa/GNS3.png" width="48" height="48" alt="GNS3" />
   <img src="https://github.com/xDylanbrr/Dylan-Arturo/blob/9cf7babea0369ee1a3dfdd6cfc0b6da5f4a44f4e/puTTY.png" width="48" height="48" alt="PuTTY" />
