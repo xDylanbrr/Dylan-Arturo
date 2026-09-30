@@ -14,7 +14,7 @@ Estudiante de Redes y Telecomunicaciones 🌐 | Apasionado por la infraestructur
 
 ### 💻 Sistemas y Desarrollo
 <p>
-  <img src="https://skillicons.dev/icons?i=python,linux,git" alt="Python, Linux, Git" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,Cisco" alt="Python, Linux, Git , Cisco" />
 </p>
 
 ---
